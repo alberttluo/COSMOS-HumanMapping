@@ -1,0 +1,6 @@
+torch
+torchvision
+argparse
+matplotlib
+opencv-python
+
